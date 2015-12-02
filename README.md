@@ -15,7 +15,6 @@ connections.
 thoughtbot was founded in 2003 and has offices in
 Austin,
 Boston,
-Chicago,
 Denver,
 London,
 New York City,
@@ -46,6 +45,15 @@ thoughtbot brand assets are available here.
 Please reference this guide whenever you use thoughtbot assets.
 
 [Assets and Guidelines](http://thoughtbot.github.io/presskit)
+
+Social
+-----
+
+* AngelList: <https://angel.co/thoughtbot>
+* Dribbble: <https://dribbble.com/thoughtbot>
+* Facebook: <https://www.facebook.com/thoughtbotinc>
+* Google+: <https://plus.google.com/102635181313464404735/posts>
+* Twitter: <https://twitter.com/thoughtbot>
 
 Copyright
 ---------
